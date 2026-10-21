@@ -150,9 +150,7 @@ A college project concept for voter registration, election management, candidate
 
 ### `ACCESS GRANTED` // KEEP LEARNING
 
-*Building skills today. Securing systems tomorrow.*
 
-
-**Thanks for visiting my profile!** 🔴
+**Thanks for visiting my profile!** 
 
 </div>
