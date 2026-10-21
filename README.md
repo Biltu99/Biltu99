@@ -151,7 +151,6 @@ A college project concept for voter registration, election management, candidate
 
 *Building skills today. Securing systems tomorrow.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Biltu99&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS)
 
 **Thanks for visiting my profile!** 🔴
 
