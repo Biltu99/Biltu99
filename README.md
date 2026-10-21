@@ -6,8 +6,9 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:180000,50:8B0000,100:FF3131&text=BILTU%20KUNDU&fontColor=FFFFFF&fontSize=55&fontAlignY=45&animation=fadeIn&stroke=FF3131&strokeWidth=1" width="100%" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=FF4D4D&center=true&vCenter=true&width=650&lines=Aspiring+DevOps+Engineer+%7C+Linux+%26+Cloud;Exploring+DevOps%2C+Linux+%26+Cloud;Python+%7C+PHP+%7C+Java+%7C+MySQL;Learning+to+Build%2C+Deploy+%26+Secure." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=FF4D4D&center=true&vCenter=true&width=650&lines=Aspiring+DevOps+Engineer;Exploring+Linux+%26+Cloud+Technologies;Python+%7C+PHP+%7C+Java+%7C+MySQL;Interested+in+Automation+%26+Deployment" alt="Typing SVG" />
 </a>
+
 
 <br/>
 
