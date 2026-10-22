@@ -113,6 +113,7 @@ A smart student attendance system concept focused on attendance management, stud
 A college project concept for voter registration, election management, candidate information, and result display.
 
 **Stack:** PHP · MySQL · HTML · CSS
+
 [View Repository](https://github.com/Biltu99/Online-Voting-System-PHP-MySQL)
 
 </td>
